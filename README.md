@@ -1,4 +1,14 @@
 ### Hi there 👋
+I'm a Researcher at WorldQuant University
+
+🎓 I am currently pursuing my Masters in Financial Engineering from WorldQuant University, and pursued Masters of Science in Plant Biotechnology from CBanaras Hindu University, Varanasi.
+
+🎓 I did my Bachelors in Agriculture from College of Agriculture, Raipur.
+
+👨‍💻 I am curious about Finance, Data Science, Blockchain, Languages, History, Philosophy, Psychology, Indian Classical Music, Indian Civilisation & I enjoy learning new things.
+
+I worked as a Consultant in the Better World Foundation for 0.5 years till October 2021.
+I worked as a District Manager cum Project Lead for World Bank-funded NRETP project of MPSRLM for 1.9 years till April 2021.
 
 ### 🛠Tech Stack
 
