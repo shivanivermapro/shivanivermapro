@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a Researcher at WorldQuant University
 
-🎓 I am currently pursuing my Masters in Financial Engineering from WorldQuant University, and pursued Masters of Science in Plant Biotechnology from CBanaras Hindu University, Varanasi.
+🎓 I am currently pursuing my Masters in Financial Engineering from WorldQuant University, and pursued Masters of Science in Plant Biotechnology from Banaras Hindu University, Varanasi.
 
 🎓 I did my Bachelors in Agriculture from College of Agriculture, Raipur.
 
