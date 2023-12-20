@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a Researcher at WorldQuant University
+I'm a Consultant at JP Morgan & Chase in Bangalore.
 
 🎓 I am currently pursuing my Masters in Financial Engineering from WorldQuant University, and completed Masters of Science in Plant Biotechnology from Banaras Hindu University, Varanasi.
 
